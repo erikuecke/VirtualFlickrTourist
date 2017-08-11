@@ -2,13 +2,12 @@
 //  Pin+CoreDataClass.swift
 //  VirtualFlickrTourist
 //
-//  Created by Erik Uecke on 8/8/17.
+//  Created by Erik Uecke on 8/11/17.
 //  Copyright © 2017 Erik Uecke. All rights reserved.
 //
 
 import Foundation
 import CoreData
-
 
 @objc(Pin)
 public class Pin: NSManagedObject {
