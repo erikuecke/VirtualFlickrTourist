@@ -9,11 +9,16 @@ The app has 2 main view controllers:
 1. Map View Controller
 2. Photos View Controller
 
-### Map View Controller
-In the map view, users drag the map to any desired location, and long-press on the map to add a pin to that location. That pin location is then saved to the Core Data managed object context. If the user previously added other pins, all those pins are persisted and load on the map view upon app launch. The user can tap any pin, which presents the Photos View Controller.
+### Key Technology and Frameworks Utilized
 
-### Photos View Controller
-In the photos view, users can view a collection view of photos downloaded from Flickr associated with the pin that they tapped in the map view. These photos are saved to Core Data, so that each time the user taps the pin, they do not have to wait for the app to re-download photos from Flickr. However, the user can choose to refresh the collection (by tapping the Refresh Collection) button, at which point the app downloads a fresh set of photos from Flickr. These photos are then saved to Core Data. The user can also tap on any of the photos to delete them. The photos are then removed from both the UI and the Core Data database.
+	**Technologies Used In Application:**
+
+	* Swift 3
+	* MVC
+	* UIKit
+	* MapKit
+	* CoreData
+	* RESTful networked APIs
 
 ## Usage
 Virtual Tourist is written in Swift 3. You can download it and run it in any version of Xcode and Simulator.
