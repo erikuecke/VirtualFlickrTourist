@@ -14,6 +14,9 @@ Virtual Tourist follows the MVC pattern. The model contains networking code for 
 * CoreData
 * RESTful networked APIs
 
+![170814_erikuecke_600px_01](https://user-images.githubusercontent.com/17869297/29299476-e7048cc2-813c-11e7-9488-565c32f5eee1.png)
+![170814_erikuecke_600px_02](https://user-images.githubusercontent.com/17869297/29299475-e6ff7908-813c-11e7-912d-3fcdce9dec08.png)
+
 ## Usage
 Virtual Tourist is written in Swift 3. You can download it and run it in any version of Xcode and Simulator.
 
