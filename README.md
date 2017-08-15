@@ -11,8 +11,6 @@ The app has 2 main view controllers:
 
 ### Key Technology and Frameworks Utilized
 
-	**Technologies Used In Application:**
-
 	* Swift 3
 	* MVC
 	* UIKit
