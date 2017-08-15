@@ -61,10 +61,6 @@
 		9E0B4DF91F3A2AD8003609B8 = {
 			isa = PBXGroup;
 			children = (
-				9ED416571F3E210800B206E1 /* Pin+CoreDataClass.swift */,
-				9ED416581F3E210800B206E1 /* Pin+CoreDataProperties.swift */,
-				9ED416591F3E210800B206E1 /* Photo+CoreDataClass.swift */,
-				9ED4165A1F3E210800B206E1 /* Photo+CoreDataProperties.swift */,
 				9E0B4E041F3A2AD8003609B8 /* VirtualFlickrTourist */,
 				9E0B4E031F3A2AD8003609B8 /* Products */,
 			);
@@ -124,6 +120,10 @@
 		9EADB4F71F3B88A700F6AE28 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				9ED416571F3E210800B206E1 /* Pin+CoreDataClass.swift */,
+				9ED416581F3E210800B206E1 /* Pin+CoreDataProperties.swift */,
+				9ED416591F3E210800B206E1 /* Photo+CoreDataClass.swift */,
+				9ED4165A1F3E210800B206E1 /* Photo+CoreDataProperties.swift */,
 				9E5BB1341F3C46FE002C12D5 /* CoreDataStack.swift */,
 				9E5BB1491F3C52F4002C12D5 /* VirtualTourist.xcdatamodeld */,
 			);
