@@ -5,18 +5,14 @@ Tour the world from the comfort of your couch! You can drop pins on a map and pu
 ## Approach
 Virtual Tourist follows the MVC pattern. The model contains networking code for the Flickr API, as well as the NSManagedObject subclasses for Core Data.
 
-The app has 2 main view controllers:
-1. Map View Controller
-2. Photos View Controller
-
 ### Key Technology and Frameworks Utilized
 
-	* Swift 3
-	* MVC
-	* UIKit
-	* MapKit
-	* CoreData
-	* RESTful networked APIs
+* Swift 3
+* MVC
+* UIKit
+* MapKit
+* CoreData
+* RESTful networked APIs
 
 ## Usage
 Virtual Tourist is written in Swift 3. You can download it and run it in any version of Xcode and Simulator.
